@@ -1,10 +1,15 @@
 # Displays your Changelog in Nova
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/Orlyapps/nova-changelog.svg?style=flat-square)](https://packagist.org/packages/Orlyapps/nova-changelog)
-![CircleCI branch](https://img.shields.io/circleci/project/github/Orlyapps/nova-changelog/master.svg?style=flat-square)
-[![Build Status](https://img.shields.io/travis/Orlyapps/nova-changelog/master.svg?style=flat-square)](https://travis-ci.org/Orlyapps/nova-changelog)
-[![Quality Score](https://img.shields.io/scrutinizer/g/Orlyapps/nova-changelog.svg?style=flat-square)](https://scrutinizer-ci.com/g/Orlyapps/nova-changelog)
-[![Total Downloads](https://img.shields.io/packagist/dt/Orlyapps/nova-changelog.svg?style=flat-square)](https://packagist.org/packages/Orlyapps/nova-changelog)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/orlyapps/nova-changelog.svg?style=flat-square)](https://packagist.org/packages/Orlyapps/nova-changelog)
+![CircleCI branch](https://img.shields.io/circleci/project/github/orlyapps/nova-changelog/master.svg?style=flat-square)
+[![Build Status](https://img.shields.io/travis/orlyapps/nova-changelog/master.svg?style=flat-square)](https://travis-ci.org/Orlyapps/nova-changelog)
+[![Quality Score](https://img.shields.io/scrutinizer/g/orlyapps/nova-changelog.svg?style=flat-square)](https://scrutinizer-ci.com/g/Orlyapps/nova-changelog)
+[![Total Downloads](https://img.shields.io/packagist/dt/orlyapps/nova-changelog.svg?style=flat-square)](https://packagist.org/packages/Orlyapps/nova-changelog)
+
+
+![alt text](https://raw.githubusercontent.com/orlyapps/nova-changelog/master/docs/screenshot.png "Example")
+
+
 
 ## Installation
 
