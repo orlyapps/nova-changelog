@@ -25,7 +25,7 @@ public function tools()
 {
     return [
         // ...
-        new \Orlyapps\NovaChangelog\Tool(),
+        new \Orlyapps\NovaChangelog\NovaChangelog(),
     ];
 }
 ```
