@@ -1,6 +1,6 @@
 <template>
     <div>
-        <heading class="mb-6">Changelog</heading>
+        <heading class="mb-6">{{__('Changelog')}}</heading>
         <card class="p-6" style="min-height: 300px" v-html="changelog"></card>
     </div>
 </template>
